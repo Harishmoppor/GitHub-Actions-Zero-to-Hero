@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit
+# I'm commiting this change to check GitHub actions
 def add(a, b):
     return a + b
 
