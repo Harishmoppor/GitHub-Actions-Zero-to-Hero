@@ -1,5 +1,5 @@
 # app.py
-# I'm commiting this change to check GitHub actions
+# I'm commiting this change to check GitHub workflow
 def add(a, b):
     return a + b
 
